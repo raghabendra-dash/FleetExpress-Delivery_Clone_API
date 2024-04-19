@@ -34,7 +34,8 @@ FleetExpress is a clone app inspired by popular instant delivery services like S
 1. **Prerequisites:**
    - Node.js and npm installed on your system.
    - MongoDB installed and running locally or a connection to a MongoDB database.
+   - Set Up Postman.
+*_If you haven't already, download and install Postman, which is a popular API development tool used for testing API endpoints._*
 
 2. **Installation:**
-   ```bash
    npm install
